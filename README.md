@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 # Home-Project---Junior-WB-Applicant
@@ -74,3 +75,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 >>>>>>> 3a2ca10 (Initial commit)
 >>>>>>> 6e6f7e3 (initialcommit)
+=======
+## View My File
+[Click here to view my resource file](https://github.com/Arjayares/Home-Project---Junior-WB-Applicant/blob/main/resources/views/pages/home.blade.php)
+
+>>>>>>> 9ff778a (Updated README with file link)
